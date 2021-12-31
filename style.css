@@ -1,0 +1,39 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    text-align: center;
+    font-size: 90px;
+}
+
+.xyz{
+    font-family: 'Oooh Baby', cursive;
+    color: crimson;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+}
+.abc{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: forestgreen;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.def{
+    font-size: 20px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: forestgreen;
+    text-align: 45px;
+    font-weight: bold;
+}
